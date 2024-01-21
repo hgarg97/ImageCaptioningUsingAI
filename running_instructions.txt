@@ -1,0 +1,6 @@
+Open Ananconda Prompt
+
+>activate captioning
+>cd G:/Image Captioning Major Project/Final Submission/ImageCaptioningWebApp-master
+>G:
+>python app.py
